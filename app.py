@@ -857,19 +857,41 @@ if predict_button:
                 )
 
             st.subheader("Recommended Action")
-            st.write(action)
 
+            if prediction == 1:
+                st.markdown(
+                    f"""
+                    <p style="
+                        background-color: #EEF1E4;
+                        color: #3F4825;
+                        padding: 15px 18px;
+                        border-radius: 12px;
+                        font-weight: 600;
+                        font-size: 16px;
+                    ">
+                        {action}
+                    </p>
+                    """,
+                    unsafe_allow_html=True
+                )
+            else:
+                st.markdown(
+                    f"""
+                    <p style="
+                        background-color: #F5EFE1;
+                        color: #5C4B25;
+                        padding: 15px 18px;
+                        border-radius: 12px;
+                        font-weight: 600;
+                        font-size: 16px;
+                    ">
+                        {action}
+                    </p>
+                    """,
+                    unsafe_allow_html=True
+                )
 
     except Exception as e:
 
         st.error("Prediction could not be completed.")
         st.exception(e)
-
-
-# =========================================================
-# FOOTER
-# =========================================================
-
-
-    st.subheader("Recommended Action")
-    st.write(action)
