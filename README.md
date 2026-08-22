@@ -359,10 +359,9 @@ The application will then be available locally through the Streamlit server.
 ## Live Demo
 
 🚀 [Try the deployed application](https://bank-marketing-campaign-jjihnokumwpjf3wwi4vlre.streamlit.app/)
-### Presentation
+## Project Presentation
 
-📄 [View Project Presentation](presentation/Bank-Marketing-Campaign.pdf)
-
+[📄 View Bank Deposit Prediction Presentation](presentation/Bank_Deposit_Prediction.pdf)
 
 ### Application Interface
 ![Prediction Result](screenshots/web-bank.png)
