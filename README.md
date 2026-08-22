@@ -37,18 +37,16 @@ The objective of this project is to build a predictive system that estimates whe
 
 This project was developed collaboratively by:
 
-* Fatma
-* Hager
-* Rehab
-* Marwan
-* Abubakr
-
----
-
+* Fatma Khalil
+* Hagar Arafat
+* Rehab Ahmed
+* Marwan Atef
+* Abu-bakr Mohamed
 ## Dataset
 
-The project uses a dataset named **`bank.csv`** from a Portuguese bank.
+The project uses the `bank.csv` dataset containing 11,162 customer records and 17 features.
 
+[View Dataset](bank.csv)
 ### Dataset Characteristics
 
 * **Records:** 11,162 customers
@@ -349,24 +347,20 @@ The application will then be available locally through the Streamlit server.
 
 ## Live Demo
 
-The deployed application is available here:
+🚀 [Try the deployed application](https://bank-marketing-campaign-jjihnokumwpjf3wwi4vlre.streamlit.app/)
+### Presentation
 
-**[Bank Marketing Campaign — Live Demo](https://bank-marketing-campaign-jjihnokumwpjf3wwi4vlre.streamlit.app/)**
-
----
-
-## Presentation
-
-The project presentation will be included in the repository to provide an overview of the problem, methodology, Machine Learning models, evaluation results, and final solution.
-
----
+📄 [View Project Presentation](presentation/Bank-Marketing-Campaign.pdf)
 
 ## Screenshots
 
-Screenshots of the deployed Streamlit application will be added here.
+### Application Interface
 
----
+![Bank Marketing Application](screenshots/web-bank.png)
 
+### Prediction Result
+
+![Prediction Result](screenshots/web-bank-2.png)
 ## Conclusion
 
 The **Bank Marketing Campaign** project demonstrates an end-to-end Machine Learning workflow for customer subscription prediction.
