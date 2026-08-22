@@ -316,13 +316,20 @@ Bank-Marketing-Campaign/
 │
 ├── app.py
 ├── requirements.txt
+├── bank.csv
+├── Bank_Marketing.ipynb
 │
-└── models/
-    ├── rf_model.pkl
-    ├── lgbm_model.pkl
-    └── scaler.pkl
-```
-
+├── models/
+│   ├── rf_model.pkl
+│   ├── lgbm_model.pkl
+│   └── scaler.pkl
+│
+├── presentation/
+│   └── Bank-Marketing-Campaign.pdf
+│
+└── screenshots/
+    ├── web-bank.png
+    └── web-bank-2.png
 ---
 
 ## How to Run Locally
