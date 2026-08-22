@@ -363,16 +363,11 @@ The application will then be available locally through the Streamlit server.
 
 📄 [View Project Presentation](presentation/Bank-Marketing-Campaign.pdf)
 
-## Screenshots
-
 ### Application Interface
-
-![Bank Marketing Application](screenshots/web-bank.png)
+![Bank Marketing Application](screenshots/web-bank-2.png)
 
 ### Prediction Result
-
-![Prediction Result](screenshots/web-bank-2.png)
-## Conclusion
+![Prediction Result](screenshots/web-bank.png)
 
 The **Bank Marketing Campaign** project demonstrates an end-to-end Machine Learning workflow for customer subscription prediction.
 
