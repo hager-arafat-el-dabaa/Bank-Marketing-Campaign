@@ -282,8 +282,6 @@ Threshold Optimization
 Final Prediction
 ```
 
----
-
 ## Streamlit Application
 
 The trained models were integrated into a **Streamlit** web application.
@@ -344,6 +342,12 @@ streamlit run app.py
 The application will then be available locally through the Streamlit server.
 
 ---
+
+## Jupyter Notebook
+
+📓 **Notebook:** [Bank_Marketing.ipynb](Bank_Marketing.ipynb)
+
+🚀 **Open in Google Colab:** [Bank Marketing Notebook](https://colab.research.google.com/drive/1fMSnXU-tWjr8PXA81_pbynujuiYkC2CP?usp=sharing)
 
 ## Live Demo
 
